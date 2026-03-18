@@ -31,7 +31,7 @@
 ├── lab4(2).ipynb
 ├── lab5.ipynb
 └── sc-landingai/
-    ├── Lab-6.ipynb
+    ├── lab6.ipynb
     ├── ade_s3_handler.py
     ├── lambda_helpers.py
     ├── visual_grounding_helper.py

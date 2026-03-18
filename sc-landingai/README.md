@@ -68,20 +68,20 @@
 
 ```
 sc-landingai/
-鈹溾攢鈹€ L6.ipynb                          # 主实验 Notebook
-鈹溾攢鈹€ ade_s3_handler.py                 # 用于文档处理的 Lambda 函数
-鈹溾攢鈹€ lambda_helpers.py                 # Lambda 部署辅助函数
-鈹溾攢鈹€ visual_grounding_helper.py        # 创建裁剪后 chunk 图像的函数
-鈹溾攢鈹€ medical/                          # 医疗 PDF 示例文档
-鈹?  鈹溾攢鈹€ Common_cold_clinincal_evidence.pdf
-鈹?  鈹溾攢鈹€ CT_Study_of_the_Common_Cold.pdf
-鈹?  鈹溾攢鈹€ Evaluation_of_echinacea_for_the_prevention_and_treatment_of_the_common_cold.pdf
-鈹?  鈹溾攢鈹€ Prevention_and_treatment_of_the_common_cold.pdf
-鈹?  鈹溾攢鈹€ The_common_cold_a_review_of_the_literature.pdf
-鈹?  鈹溾攢鈹€ Understanding_the_symptoms_of_the_common_cold_and_influenza.pdf
-鈹?  鈹溾攢鈹€ Viruses_and_Bacteria_in_the_Etiology_of_the_Common_Cold.pdf
-鈹?  鈹斺攢鈹€ Vitamin_C_for_Preventing_and_Treating_the_Common_Cold.pdf
-鈹斺攢鈹€ README.md                         # 本文件
+├── lab6.ipynb                         # 主实验 Notebook
+├── ade_s3_handler.py                  # 用于文档处理的 Lambda 函数
+├── lambda_helpers.py                  # Lambda 部署辅助函数
+├── visual_grounding_helper.py         # 创建裁剪后 chunk 图像的函数
+├── medical/                           # 医疗 PDF 示例文档
+│   ├── Common_cold_clinincal_evidence.pdf
+│   ├── CT_Study_of_the_Common_Cold.pdf
+│   ├── Evaluation_of_echinacea_for_the_prevention_and_treatment_of_the_common_cold.pdf
+│   ├── Prevention_and_treatment_of_the_common_cold.pdf
+│   ├── The_common_cold_a_review_of_the_literature.pdf
+│   ├── Understanding_the_symptoms_of_the_common_cold_and_influenza.pdf
+│   ├── Viruses_and_Bacteria_in_the_Etiology_of_the_Common_Cold.pdf
+│   └── Vitamin_C_for_Preventing_and_Treating_the_Common_Cold.pdf
+└── README.md                          # 本文件
 ```
 
 ## 开始使用

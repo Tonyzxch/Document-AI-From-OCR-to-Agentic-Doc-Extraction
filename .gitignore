@@ -1,0 +1,15 @@
+# Secrets and local environment
+.env
+*.env
+sc-landingai/.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
